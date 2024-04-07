@@ -2,7 +2,7 @@
 <h4>This project is an Amazon clone is Just a UI of Website built using HTML, CSS, and JavaScript. 
   It Features user Authentication with Login and Registration Functionality, Products page where users can and view Items.The project is Deployed on Vercel.</h4>
 
-<h3>Click To See : <a href="https://amazon-clone-ui-sanket.vercel.app/">Live Demo</a><h3>
+<h3>Click To See : <a href="https://website-clone-ui-sanket.vercel.app/">Live Demo</a><h3>
       <h2>Technologies Used and Features  :</h2>
     <table style="border-collapse: collapse; width: 100%;">
         <tr>
